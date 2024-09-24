@@ -16,8 +16,8 @@
 
 This project focused on analyzing the mental health of students based on various factors such as stress, anxiety, depression, academic workload, etc. The main goal is to gain valuable 
 insights that can be essential to understanding the various patterns of mental health issues among these students, and also explore how different areas of a student's life , such as 
-their CGPA, involvement in extracurricular activities, and financial stress, affect their mental well-being. The findings from this analysis can provide valuable recommendations that 
-helps to improve students' mental health and overall wellbeing.
+their CGPA, involvement in extracurricular activities, and financial stress, affect their mental well-being. The findings from this analysis provide valuable recommendations that 
+help to improve students' mental health and overall wellbeing.
 
 ### Data Sources
 
