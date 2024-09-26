@@ -157,7 +157,7 @@ ORDER BY
 	CountofSocialSupport
 
 
--- How many students are experiencing high stress and what is the average anxiety score for these students?
+-- Wjat is the total number of students experiencing high stress and what is the average anxiety score for these students?
 
 SELECT 
    SUM(CASE WHEN Stress_Level >= 4 THEN 1 ELSE 0 END) AS Total_High_Stress,
