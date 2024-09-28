@@ -9,7 +9,7 @@
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
+- [Challenges](#challenges)
 
 
 ## Project Overview
@@ -109,7 +109,7 @@ Based on my findings, I have the following recommendations;
 
 - Universities could work on offering lighter workload adjustments for students during specific intense school periods, like mid semester tests, exams, etc.to help them effectively manage their courseworks better.
 
-### Limitations
+### Challenges
 
 Considering this is my first personal SQL project, I experienced a lot of frustrations from getting frequent query errors from answering specific data questions that fit my data 
 objectives. It took constant trials and errors, resilience and fighting spirit. I expected that it wouldn't be a smooth work process considering it's a first but not as challenging
